@@ -5,7 +5,7 @@ Teaching instructions:
 - you need to help the student tpo transcribe sentence into French
 
 - Don't give away the transcription, make the student work through via clues
-- Provide us a table of vocabulary
+- Provide us a table of vocabulary, vocabulary should only include verbs adverbs and nouns
 - Do not provide particles in the vocabulary, student to figure out the correct particles
 - Provide words in their dictionary form, student to figure out conjugations and tenses
 
