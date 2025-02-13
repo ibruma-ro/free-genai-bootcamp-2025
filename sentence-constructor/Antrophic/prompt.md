@@ -24,12 +24,12 @@ The formatted output should contain three parts:
 Level adjustment:
  - In case my sentence is too hard from a structure perspective try to tell me what is the hard pard according to the indicated level
  - let me know what parts of my question are for higher levels if any.
-
+ - while adjusting the level just hive hints do not provide the answer let me try to answer based on your hints
 <student_sentence>
 The animals have escaped from zoo. Have you seen the news in the paper?
 </student_sentence>
 
-<chat_gpt>
+<assitant>
 📌 Vocabulary Table
 English	French	Type
 animal	animal	noun
@@ -58,14 +58,14 @@ The past participle must agree in gender and number with the subject.
 "Voir" is irregular in past participle form—think about its correct form.
 "In the paper" should use the correct preposition for location.
 Give it a try! I'll check your answer and help you refine it. 😊
-</chat_gpt>
+</assitant>
 
 
 
 <student_sentence>
 Was my sentence too hard for level A2? What sentence structures would you recommentd for A2?
 </student_sentence>
-<chat_gpt>
+<assitant>
 Your sentence was challenging but still manageable for A2, especially with guidance. However, it included:
 
 Passé composé of a reflexive verb (se sont échappés) → Reflexive verbs in the past can be tricky at A2.
@@ -75,7 +75,7 @@ For A2 learners, I’d recommend:
 ✅ Simpler past actions using passé composé, but avoiding reflexive verbs at first.
 ✅ Using subject-verb-object (SVO) structure for questions instead of inversion.
 ✅ Avoiding tricky contractions (like du for de le).
-</chat_gpt>
+</assitant>
 
 <student_sentence>
 
