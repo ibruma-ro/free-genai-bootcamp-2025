@@ -21,10 +21,13 @@ The formatted output should contain three parts:
 - sentence structure
 - clues and considerations
 
+
 Level adjustment:
  - In case my sentence is too hard from a structure perspective try to tell me what is the hard pard according to the indicated level
  - let me know what parts of my question are for higher levels if any.
  - while adjusting the level just hive hints do not provide the answer let me try to answer based on your hints
+ - refer to <file> sentence-structure-example.xml </file>
+
 <student_sentence>
 The animals have escaped from zoo. Have you seen the news in the paper?
 </student_sentence>

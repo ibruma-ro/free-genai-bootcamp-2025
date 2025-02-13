@@ -1,0 +1,97 @@
+<structure name="simple_present">
+    <pattern>[Subject] + [Present Tense Verb] + [Object]</pattern>
+    <example>
+        <french>Je mange une pomme</french>
+        <english>I eat an apple</english>
+    </example>
+</structure>
+
+## 2. Near Future (Futur Proche)
+```xml
+<structure name="near_future">
+    <pattern>[Subject] + [Aller in present] + [Infinitive]</pattern>
+    <example>
+        <french>Nous allons partir</french>
+        <english>We are going to leave</english>
+    </example>
+</structure>
+
+## 3. Basic Question with Est-ce que
+```xml
+<structure name="basic_question">
+    <pattern>Est-ce que + [Subject] + [Verb] + [Object]?</pattern>
+    <example>
+        <french>Est-ce que tu aimes le café?</french>
+        <english>Do you like coffee?</english>
+    </example>
+</structure>
+
+## 4. Simple Passé Composé
+```xml
+<structure name="passe_compose">
+    <pattern>[Subject] + [Avoir in present] + [Past Participle] + [Object]</pattern>
+    <example>
+        <french>J'ai mangé du pain</french>
+        <english>I ate some bread</english>
+    </example>
+</structure>
+
+## 5. Basic Negation
+```xml
+<structure name="negation">
+    <pattern>[Subject] + ne + [Verb] + pas + [Object]</pattern>
+    <example>
+        <french>Je ne veux pas de sucre</french>
+        <english>I don't want sugar</english>
+    </example>
+</structure>
+
+## 6. Simple Description
+```xml
+<structure name="description">
+    <pattern>[Subject] + [Être] + [Adjective]</pattern>
+    <example>
+        <french>La maison est grande</french>
+        <english>The house is big</english>
+    </example>
+</structure>
+
+## 7. Basic Time Expression
+```xml
+<structure name="time_expression">
+    <pattern>[Time Expression] + [Subject] + [Verb] + [Object]</pattern>
+    <example>
+        <french>Aujourd'hui je vais au marché</french>
+        <english>Today I go to the market</english>
+    </example>
+</structure>
+
+## 8. Simple Comparison
+```xml
+<structure name="comparison">
+    <pattern>[Subject] + [Verb] + plus/moins + [Adjective] + que</pattern>
+    <example>
+        <french>Il est plus grand que moi</french>
+        <english>He is taller than me</english>
+    </example>
+</structure>
+
+## 9. Basic Opinion
+```xml
+<structure name="opinion">
+    <pattern>Je pense que + [Subject] + [Verb] + [Object]</pattern>
+    <example>
+        <french>Je pense que c'est bon</french>
+        <english>I think that it's good</english>
+    </example>
+</structure>
+
+## 10. Simple Location
+```xml
+<structure name="location">
+    <pattern>[Subject] + [Être/Verb] + [Preposition] + [Place]</pattern>
+    <example>
+        <french>Le livre est sur la table</french>
+        <english>The book is on the table</english>
+    </example>
+</structure>
