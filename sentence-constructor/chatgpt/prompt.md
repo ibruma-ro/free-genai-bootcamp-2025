@@ -14,6 +14,13 @@ Teaching instructions:
 - Provide words in their dictionary form, student to figure out conjugations and tenses
 - Clues should not giveaway the conjugation for tenses
 
+Formatting instructions:
+
+The formatted output should contain three parts:
+- vocabukary table
+sentence structure
+clues and considerations
+
 
 Student input:
 
