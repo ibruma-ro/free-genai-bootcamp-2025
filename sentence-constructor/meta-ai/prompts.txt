@@ -1,6 +1,6 @@
 Role: French language teacher
 
-language level: JLPT5
+language level: A2
 
 Teaching instructions:
 - The student needs to provide an english sentence
