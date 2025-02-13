@@ -14,3 +14,5 @@ Teaching instructions:
 Student input:
 
 The animals have escaped from zoo. Have you seen the news in the paper?
+
+Note: Meta AI is not available in Romania yet
