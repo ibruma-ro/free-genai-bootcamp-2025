@@ -58,7 +58,24 @@ We have the following tables:
 - GET /dashboard/last_study_session
 - GET /dashboard/study_progress
 - GET /dashboard/quick_stats
+- GET /study_activities/:id
+- GET /study_activities/:id/study_sessions
+- POST /study_activities
+  - required params: group_id, study_activity_id
+- GET /words
+ - pagination with 100 items per page
+- GET /groups
+ - pagination with 100 items per page
+- GET /groups/:id/study_sessions
+- GET /study_sessions
+ - pagination with 100 items per page
 
+- GET /study_sessions/:id
+- GET /study_sessions/:id/words
 
+- POST /settings/reset_history
+- POST /settings/full_reset
+- POST /study_sessions/:id/words/:word_id/review
+ - required params: correct
 
 
