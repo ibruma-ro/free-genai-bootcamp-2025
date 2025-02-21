@@ -20,9 +20,9 @@ The purpose of this page is to give the user a quick overview of their learning 
 
 ### Endpoints
 
-- GET /dashboard/last_study_session
-- GET /dashboard/study_progress
-- GET /dashboard/quick_stats
+- GET /api/dashboard/last_study_session
+- GET /api/dashboard/study_progress
+- GET /api/dashboard/quick_stats
 
 ### Study Activity
 
@@ -39,7 +39,7 @@ The page contains the following components:
 
 #### Needed API endpoints
 
-- GET /study_activities
+- GET /api/study_activities
 
 
 ### Study Activity Show 
@@ -63,8 +63,8 @@ The purpose of this page is to show the details of a study activity.
 
 #### Needed endpoints
 
-- GET /study_activities/:id
-- GET /study_activities/:id/study_sessions
+- GET /api/study_activities/:id
+- GET /api/study_activities/:id/study_sessions
 
 ### Study Activities Launch
 
@@ -107,7 +107,7 @@ The purpose of this page is to show all words  in our database
 
 #### Needed endpoints
 
-- GET /words
+- GET /api/words
 
 ### Word Show
 
@@ -128,7 +128,7 @@ The purpose of this page is to show the details of a word.
 
 #### Needed endpoints
 
-- GET /words/:id
+- GET /api/words/:id
 
 ### Word Groups
 
@@ -147,7 +147,7 @@ The purpose of this page is to show all word groups in our database
 
  #### Needed endpoints
 
- - GET /groups
+ - GET /api/groups
 
 ### Word Group Show
 
@@ -167,9 +167,9 @@ The purpose of this page is to show the details of a word group.
 
 #### Needed endpoints
 
-- GET /groups/:id (the name and group stats)
-- GET /groups/:id/words
-- GET /groups/:id/study_sessions
+- GET /api/groups/:id (the name and group stats)
+- GET /api/groups/:id/words
+- GET /api/groups/:id/study_sessions
 
 ## Study session Index
 
@@ -190,7 +190,7 @@ The purpose of this page is to show all study sessions in our database
 
 #### Needed endpoints
 
-- GET /study_sessions
+- GET /api/study_sessions
 
 
 ## Study Session Show
@@ -212,8 +212,8 @@ The purpose of this page is to show the details of a study session.
 
 #### Needed endpoints
 
-- GET /study_sessions/:id
-- GET /study_sessions/:id/words
+- GET /api/study_sessions/:id
+- GET /api/study_sessions/:id/words
 
 ### Settings
 
@@ -230,6 +230,6 @@ The purpose of this page is to show the settings of the user.
 
 #### Needed endpoints
 
-- POST /settings/reset_history
-- POST /settings/full_reset
+- POST /api/settings/reset_history
+- POST /api/settings/full_reset
 
