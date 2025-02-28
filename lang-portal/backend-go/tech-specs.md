@@ -16,6 +16,9 @@
 - there will bo no authentication and authorization
 - everything treated as a single user
 
+## Directory Structure
+
+
 
 ## database schema
 
